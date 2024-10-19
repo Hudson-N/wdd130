@@ -1,0 +1,22 @@
+.logo{
+    box-sizing: border-box;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
+body{
+    background-color: #737373;
+    margin: 0;
+}
+
+.icon{
+    border-radius: 50%;
+    width: 25%;
+    display: inline-block;
+    border: 10px solid #444444;
+    margin: 50px;
+}
+#images{
+    margin: 0 auto;
+    text-align: center;
+}
