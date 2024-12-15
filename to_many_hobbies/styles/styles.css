@@ -72,7 +72,15 @@ main{
     margin: 50px;
 }
 .cyber-box{
-    width: 60%;
+    width: 100%;
+    border: 5px solid#354f52;
+    border-radius: 15px;
+    margin: 10px;
+    text-align: center;
+    padding: 6px;
+}
+.flying-box{
+    width: 100%;
     border: 5px solid#354f52;
     border-radius: 15px;
     margin: 10px;
@@ -83,7 +91,7 @@ main{
     width: 90%;
 }
 .rubiks-box{
-    width: 60%;
+    width: 100%;
     border: 5px solid#354f52;
     border-radius: 15px;
     margin: 10px;
@@ -91,15 +99,30 @@ main{
     padding: 6px;
 
 }
-
-.flying-box{
-    width: 60%;
+.cubing-box{
+    width: 100%;
+    border: 5px solid#354f52;
+    border-radius: 15px;
+    margin: 10px;
+    text-align: center;
+    padding: 6px;
+}
+.flight-box{
+    width: 100%;
     border: 5px solid#354f52;
     border-radius: 15px;
     margin: 10px;
     text-align: center;
     padding: 6px;
 
+}
+.chess-box{
+    width: 100%;
+    border: 5px solid#354f52;
+    border-radius: 15px;
+    margin: 10px;
+    text-align: center;
+    padding: 6px;
 }
 
 .giac-cert{
@@ -130,7 +153,7 @@ main{
     padding: 10px;
 }
 .tryhackme-box{
-    width: 60%;
+    width: 100%;
     border: 5px solid#354f52;
     border-radius: 15px;
     margin: 10px;
@@ -142,7 +165,7 @@ main{
     padding: 20px;
 }
 .cyber-patriot-box{
-    width: 60%;
+    width: 100%;
     border: 5px solid#354f52;
     border-radius: 15px;
     margin: 10px;
@@ -159,10 +182,7 @@ main{
 .rv14{
     width: 50%;
 }
-.flying{
-    display: flex;
-    
-}
+
 .cubing{
     display: flex;
 }
