@@ -9,11 +9,18 @@ header {
 }
 .logo {
     width: 100%;
-  
+   
+    
+}
+.logo-link{
+    padding: 0px;
+    margin: 0px;
+    
 }
 nav {
     display: flex;
     justify-content: space-around;
+    
     
 }
 nav a {
